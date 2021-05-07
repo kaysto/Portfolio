@@ -21,7 +21,53 @@
 
 /* Mobile Layout: 320px. */
 
-@media only screen and (max-width: 767px) {}
+@media only screen and (max-width: 767px) {
+    #about h1 {
+        font-size: large;
+    }
+    #about p {
+        font-size: 3vw;
+    }
+    .navbar-default .navbar-nav>li>a {
+        font-size: large;
+    }
+    #projects {
+        font-size:large;
+    }
+    #services p {
+        font-size: 3vw;
+    }
+    #kanko {
+        font-size: large;
+    }
+    #knit {
+        font-size: large;
+    }
+    #sen {
+        font-size: large;
+    }
+    #fort {
+        font-size: large;
+    }
+    #skills {
+        font-size: large;
+    }
+    #contact2 {
+        font-size: large;
+    }
+    #email {
+        font-size:large;
+    }
+    #linked {
+        font-size:large;
+    }
+    #github {
+        font-size:large;
+    }
+    #resume {
+        font-size:large;
+    }
+}
 
 
 /* Wide Mobile Layout: 480px. */
